@@ -1,0 +1,6 @@
+.grid-container{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

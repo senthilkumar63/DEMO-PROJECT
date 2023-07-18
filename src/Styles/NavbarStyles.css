@@ -1,0 +1,14 @@
+.navbar-menu{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar-menu li{
+    margin: 0px 15px;
+}
+.navbar-menu li a{
+    text-decoration:  none;
+    color: white;
+}
